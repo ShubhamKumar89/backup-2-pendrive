@@ -48,4 +48,4 @@ Before physically removing the pen drive, it's important to unmount it safely to
    sudo umount /mnt/usb
    ```
 
-Now, you can safely remove the pen drive from your serv
+Now, you can safely remove the pen drive from your server.
